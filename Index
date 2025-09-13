@@ -44,7 +44,7 @@
       inset:0;
       background-image: url('https://xatimg.com/image/kLfD7bjiSSjp.png');
       background-repeat:no-repeat;
-      background-position:55% center; /* 5% para a direita (50% normal + 5%) */
+      background-position:40% center; /* 5% para a direita (50% normal + 5%) */
       background-size:110% auto; /* Expandida 10% */
       z-index:5;
       pointer-events:none;
